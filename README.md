@@ -7,8 +7,8 @@
 ## <a id=objetivo>Objetivo</a>
 
 - [Objetivo](#objetivo)
-- [Introducción](#introducion)
-- [Equipo ¿Quienes somos](#equipo)
+- [Introducción](#introduccion)
+- [Equipo ¿Quienes somos?](#equipo)
 - [Progreso (Actualizado a 2021-02)](#progreso)
 - [Glosarios](#glosarios)
 
@@ -22,7 +22,7 @@
 
 - No podemos dar una fecha estimada, dada la naturaleza 'sin ánimo de lucro, y de fans, en tiempo de ocio/hobby' pero avanzamos a buen ritmo, y somos varios traductores.
 
-## <a id=objetivo>Introduccióno</a>
+## <a id=introduccion>Introducción</a>
 
 - Pathologic I (Classic HD), es el Remaster/relanzamiento (2015) del Juego Pathologic original, que Ice-Pick Lodge lanzó en 2005 en Rusia como Мор Утопия (Mor. Utopiya) 'Pestilencia. Utopía') y lanzado en un desafortunado Inglés (una traducción al Inglés de muy baja calidad) en 2006... hasta que en 2015 fue relanzado con una renovada Traducción al Inglés y Ruso.
 
@@ -40,7 +40,7 @@
 
 - Es una traducción 'de Fans', no oficial por el momento, pero con la máxima calidad, como si de profesional se tratase, y está en contínua revisión y mejora, corrección, etc
 
-## <a id="equipo">Equipo (¿Quienes somos)</a>
+## <a id="equipo">Equipo (¿Quienes somos?)</a>
 
 - [@DUBlajes](https://twitter.com/DUBlajes) (Álvaro Guerrero)
 - [@krmlw](https://twitter.com/krmlw)  (Karen Marlow)
