@@ -5,13 +5,13 @@
 
 ## Índice
 
-## <a id=objetivo>Objetivo</a>
-
 - [Objetivo](#objetivo)
 - [Introducción](#introduccion)
 - [Equipo ¿Quienes somos?](#equipo)
 - [Progreso (Actualizado a 2021-02)](#progreso)
 - [Glosarios](#glosarios)
+
+## <a id=objetivo>Objetivo</a>
 
 - Traducir Pathologic I (Classic HD) y Pathologic II al Español-España (Castellano), texto, y 'assets', también hay ideas sobre el doblaje de ciertas partes (@DUBlajes, Álvaro Guerrero), el juego tiene Voces en Ruso o Inglés (aunque muchos de los diálogos son mudos, por su naturaleza, RPG, Indie, y la cantidad de diálogos)
 
