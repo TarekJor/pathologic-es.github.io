@@ -96,15 +96,14 @@ Autor: [@DUBlajes (Álvaro Guerrero)](https://twitter.com/DUBlajes)
 - Archivo 11: Traducido (@DUBlajes).
 - Archivo 12: En fase de traducción (@knell)
 - Archivo 13: Traducido (@Ancalagon)
-- Archivo 14: En fase de traducción (@omewwwwes)
+- Archivo 14: Traducido (@omewwwwes)
 - Archivo 15: En fase de traducción (@Va)
 - Archivo 16: En fase de traducción (@DUBlajes) 
 - Archivo 17: En fase de traducción (@Ancalagon)
-- Archivo 18: Sin asignar.
-- Archivo 19: Sin asignar.
-- Archivo 20: Sin asignar.
+- Archivo 18: En fase de traducción (@omewwwwes) 
+- Archivo 19: En fase de traducción (@TarekJor) 
+- Archivo 20: En fase de traducción (@Ancalagon)
 - Archivo 21 (DLC Marble Nest) : En fase de traducción  (@TarekJor)
-
 
 ## <a id="glosarios">Glosarios</a>
 
