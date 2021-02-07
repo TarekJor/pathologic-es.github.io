@@ -531,3 +531,4 @@ Espacio para dejar comentarios y preguntas que no están relacionados con ningú
 - Orderlies => ordenanzas, celadores, camilleros, asistentes, ayudantes (un término curioso), asistentes médicos, no-enfemeros, más camilleros, celadores, y ayudantes auxilares, que 'sanitarios' - @TarekJor
 
 - Algunos términos habrá que revisarlos con contexto y al final al unificar las traducciones (ejemplo The Kin)
+- Algunos términos están claros y son definitivos, otros pueden/deben ser revisados al final (orderlies, motes, nombres de personajes, el contexto podría decantar una alternativa que quedara mejor o unificar con Pathologic I
