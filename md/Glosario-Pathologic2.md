@@ -157,46 +157,46 @@ En Pathologic 2, estos personajes hablan en verso y rima. En la traducción al i
 ---
 ## <a id="mapa">Distritos y Zonas (Mapa)</a>
 
-- Abattoir - Бойни - Matadero
-- Bad Grief’s Nest - Логово Грифа - El nido de Grifo
+- Abattoir - Бойни - **Matadero**
+- Bad Grief’s Nest - Логово Грифа - **El Nido de Grifo**
 - Bone Stake Lot - Пустырь Костного Столба - Solar de la Estaca de Huesos o Estacario de hueso
-- Gates of Labour - Врата Труда - Pórtico de la Labor
-- Gates of Sorrow - Врата Скорби - Pórtico de la Tristeza o Pórtico de la Pena
-- Gullet - Жилка - Arteria (río)
-- Guzzle - Глотка - Garganta (río)
-- Lair - берлога - Guarida (del Arúspice)
-- Middle Town - Середине бочки - parte central (del pueblo) o Centro del Pueblo
-- Pub the Broken Heart - кабаке «Разбитое сердце» - Taberna "El Corazón Partido"
-- Ragi Barrow - Курган Раги - Túmulo de Ragi
-- Station: Estación (es la estación de ferrocarril).
-- The Atrium - Створки - El Atrio
+- Gates of Labour - Врата Труда - **Pórtico de la Labor**
+- Gates of Sorrow - Врата Скорби - **Pórtico de la Tristeza** o Pórtico de la Pena
+- Gullet - Жилка - **Arteria** (río)
+- Guzzle - Глотка - **Garganta** (río)
+- Lair - берлога - **Guarida** (del Arúspice)
+- Middle Town - Середине бочки - parte central (del pueblo) o **Centro del Pueblo**
+- Pub the Broken Heart - кабаке «Разбитое сердце» - **Taberna "El Corazón Partido"**
+- Ragi Barrow - Курган Раги - **Túmulo de Ragi**
+- Station: **Estación** (es la estación de ferrocarril).
+- The Atrium - Створки - **El Atrio**
 - The Backbone - Хребтовка - **El Lomo** o La columna vertebral.
-- The Bridge Square - Площадь мост - Plaza del Puente
-- The Bulljaw - Бычий Зев - La Boca del Toro o La Quijada de toro.
-- The Cape - Мыс - El Cabo
-- The Cemetery - Кладбище - El Cementerio
-- The Chine - Ребро - La Costilla o el Espinazo
-- The Crucible - Горны - El Crisol
-- The Crude Sprawl - Сырые Застройки - La Expansión Tosca
-- The Factory - Заводы - La Factoría
-- The Flank - Седло - El Flanco o el Costado
-- The Ford - El Vado (otra forma de referirse al Abbatoir)
+- The Bridge Square - Площадь мост - **Plaza del Puente**
+- The Bulljaw - Бычий Зев - **La Boca del Toro** o La Quijada de toro.
+- The Cape - Мыс - **El Cabo**
+- The Cemetery - Кладбище - **El Cementerio**
+- The Chine - Ребро - **La Costilla** o el Espinazo
+- The Crucible - Горны - **El Crisol**
+- The Crude Sprawl - Сырые Застройки - **La Expansión Tosca**
+- The Factory - Заводы - **La Factoría**
+- The Flank - Седло - **El Flanco** o el Costado
+- The Ford - **El Vado** (otra forma de referirse al Abbatoir)
 - The Gut - Утроба - **El Vientre** o las Tripas, Entrañas
-- The Gut: Las entrañas.
-- The Hindquarters - Жильники - Los Cuartos Traseros
-- The Knots - Узлы - Los Nódulos
-- The Lump - Сгусток - El Coágulo
+- The Gut: **Las Entrañas**.
+- The Hindquarters - Жильники - **Los Cuartos Traseros**
+- The Knots - Узлы - **Los Nódulos**
+- The Lump - Сгусток - **El Coágulo**
 - The Marrow - Сердечник - **La Médula** o el Tuétano
-- The Maw/The Mouth - Жерло - Las Fauces
-- The Nutshell - Скорлупа - El Cascarón
-- The Polyhedron - Многогранник - El Poliedro
-- The Rod - Стержень - La Vara
-- The Shelter - Приют - El Refugio
+- The Maw/The Mouth - Жерло - **Las Fauces**
+- The Nutshell - Скорлупа - **El Cascarón**
+- The Polyhedron - Многогранник - **El Poliedro**
+- The Rod - Стержень - **La Vara**
+- The Shelter - Приют - **El Refugio**
 - The Skinners - Кожевенный - **Los Peleteros** o los Desolladores
-- The Soul-and-a-Half Fortress - Замок Двоедушников - La Fortaleza de las Almas Duales
+- The Soul-and-a-Half Fortress - Замок Двоедушников - **La Fortaleza de las Almas Duales**
 - The Spleen - Почка - **El Riñón** o el Bazo
-- The Station - Станция - La Estación (es la estación de ferrocarril)
-- The Stillwater - Омут - La Vorágine o (Aguas Calmas)
+- The Station - Станция - **La Estación** (es la estación de ferrocarril)
+- The Stillwater - Омут - **La Vorágine** o (Aguas Calmas)
 
 Tanto en ruso como en inglés, el nombre de la casa de Eva Yan hace referencia al dicho "Still waters run deep / В тихом омуте черти водятся". En español sería algo así como 
 "Las aguas tranquilas son profundas". Básicamente quiere decir que las apariencias engañan.
@@ -303,9 +303,9 @@ En ocasiones e habla de 'powders', polvillos, cuando se habla de Shmowders (sh, 
 - Onlooker - Зевака - **Curioso**
 - Orderly - Мортус - **Celador** o Camillero / Auxiliar
 	
-  Son los que se encargan de los cadáveres y de otras tareasd e apoyo
+Son los que se encargan de los cadáveres y de otras tareasd e apoyo
   
-	Alternativas: Ordenanza, Celador, Ayudante, Asistente (contexto)
+Alternativas: Ordenanza, Celador, Ayudante, Asistente (contexto)
   
 - Orderlies **Celadores**
 - Sand Pest - Песчанкой - **Peste de Arena**
@@ -315,13 +315,14 @@ En ocasiones e habla de 'powders', polvillos, cuando se habla de Shmowders (sh, 
 - The Bound - Приближенные - **Allegados** o 'Vinculados'
 - The Game/Great Game: **El Juego/Gran Juego**
 - The Gumstone - Клей-камня - **Los megalitos de la estepa** o los 'Monolitos' de la Estepa. Esa palabra no tiene traducción como tal, y como en realidad son una serie de piedras colocadas en forma de espiral en la estepa, podemos llamarlo así sin perder sentido ni darle otro adicional.
+
 - The Kin - Уклад - **El Régimen** o El Linaje o Dogma (término al que habrá que dar vueltas al final, con todo el contexto de cuando se utiliza, Clan, Klan, etc)
 
-	Uno de los términos más difíciles de traducir. Уклад significa "modo", "costumbre", "camino", "régimen", "estructura", e incluso "la palabra". En definitiva, es el orden ancestral y natural de las cosas, además de expresar rigidez dentro de esta estructura social y religiosa.
+Uno de los términos más difíciles de traducir. Уклад significa "modo", "costumbre", "camino", "régimen", "estructura", e incluso "la palabra". En definitiva, es el orden ancestral y natural de las cosas, además de expresar rigidez dentro de esta estructura social y religiosa.
 
-	Una vez más, The Kin es una adaptación inteligente para la traducción al inglés. Es cierto que esta "secta" (por llamarlo de una manera) tiene lazos familiares, PERO de diversas familias, no sólo una.
+Una vez más, The Kin es una adaptación inteligente para la traducción al inglés. Es cierto que esta "secta" (por llamarlo de una manera) tiene lazos familiares, PERO de diversas familias, no sólo una.
 
-	Insisto, desde mi punto de vista, es muy difícil de traducir; y, por otra parte, ya conocéis mi insistencia por ser fiel al texto original. Yo opté por El Régimen.
+Insisto, desde mi punto de vista, es muy difícil de traducir; y, por otra parte, ya conocéis mi insistencia por ser fiel al texto original. Yo opté por El Régimen.
 
 - The Lines - Линии - **Las Líneas**
 - The Town - Город - **el Pueblo** o 'Villa'
@@ -461,9 +462,7 @@ ES Varios…
 * La mujer y el vino sacan al hombre de tino.
 * O traducción literal.
 
-
 RU Кому повезёт, у того и петух снесёт. (rima)
-
 
 Trad. literal: (Creo, creo…) El que tiene suerte recibirá mamadas.
 Significado: aquel que siga su destino será premiado.
@@ -474,9 +473,7 @@ ES Varios…
 * A los osados, favorece la fortuna.
 * El bien, buscarlo, y el mal, esperarlo.
 
-
 RU Которая рука крест кладёт, та и нож точит.
-
 
 Trad. literal: La mano que pone la cruz es la que afila el cuchillo.
 Significado: referencia a la hipocresía.
@@ -486,9 +483,7 @@ ES Varios…
 * El rosario al cuello, y el diablo en el cuerpo.
 * Cara de beato y uñas de gato.
 
-
 RU Купил-нашёл, еле ушёл. Сдачи давали, да не догнали. (rima)
-
 
 Trad. literal: (Creo…) Compré lo que encontré, apenas podía caminar. Me dieron el cambio, pero era menos (de lo que me tocaba).
 Significado: engaño, dinero, comprar.
@@ -498,19 +493,16 @@ ES Varios…
 * Al prestar, amigos, y al cobrar, enemigos.
 * Moneda falsa, de noche pasa.
 
-
 RU Бессовестным глазам не первый базар: отморгаются.
-
 
 Trad. literal: No es el primer mercado de ojos desvergonzados: parpadearán.
 Significado: una de dos, o habla de sumisión y humillación, o de la desvergüenza.
 EN A well honed tongue breaks bone.
 ES Varios…
 * El hambre agudiza el ingenio.
-
+* Una afilada lengua hace más daño - TarekJor
 
 RU Скоро только кошки родятся.
-
 
 Trad. literal: Pronto solo nacerán gatos.
 Significado: prisas
@@ -530,5 +522,5 @@ Espacio para dejar comentarios y preguntas que no están relacionados con ningú
 
 - Orderlies => ordenanzas, celadores, camilleros, asistentes, ayudantes (un término curioso), asistentes médicos, no-enfemeros, más camilleros, celadores, y ayudantes auxilares, que 'sanitarios' - @TarekJor
 
-- Algunos términos habrá que revisarlos con contexto y al final al unificar las traducciones (ejemplo The Kin)
-- Algunos términos están claros y son definitivos, otros pueden/deben ser revisados al final (orderlies, motes, nombres de personajes, el contexto podría decantar una alternativa que quedara mejor o unificar con Pathologic I
+- Algunos términos habrá que revisarlos con contexto y al final al unificar las traducciones (ejemplo The Kin) - @TarekJor
+- Algunos términos están claros y son definitivos, otros pueden/deben ser revisados al final (orderlies, motes, nombres de personajes, el contexto podría decantar una alternativa que quedara mejor o unificar con Pathologic I - @TarekJor
