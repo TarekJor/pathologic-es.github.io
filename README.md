@@ -98,4 +98,8 @@ A Ancalagon, por sus matices, sus recomendaciones, consejos, experiencia y buen 
 - [Pathologic en Wikipedia en Inglés](https://en.wikipedia.org/wiki/Pathologic)
 - [Pathologic en Wikipedia en Español](https://es.wikipedia.org/wiki/Pathologic)
 
+Legado
+- [[Traducción] Pathologic 2 + DLC en ClanDlan (legado)](http://www.clandlan.net/foros/topic/81063-traduccion-pathologic-2-dlc/)
+- [[Petición] Traducción Pathologic 2](http://www.clandlan.net/foros/topic/80530-peticion-traduccion-pathologic-2/)
+
 Saludos ;D
