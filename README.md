@@ -65,7 +65,8 @@ Legado
 ## <a id="juego-de-mesa">Juego de Mesa de Pathologic</a>
   
 Autor: [@DUBlajes (Álvaro Guerrero)](https://twitter.com/DUBlajes)
-[Traducción al Español del Juego de Mesa de Pathologic (Imágenes adjuntas)](/Pathologic-Board-Game-Spanish/Traduccion-Juego-Mesa-Pathologic.md)
+
+- [Traducción al Español del Juego de Mesa de Pathologic (Imágenes adjuntas)](/Pathologic-Board-Game-Spanish/Traduccion-Juego-Mesa-Pathologic.md)
 
 ## <a id="progreso">Progreso (Actualizado a 2021-02)</a>
 
