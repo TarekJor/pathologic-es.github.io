@@ -4,7 +4,7 @@
 
 ## Índice
 
-## <a>id=objetivo>Objetivo</a>
+## <a id=objetivo>Objetivo</a>
 
 - [Objetivo](#objetivo)
 - [Introducción](#introducion)
@@ -22,7 +22,7 @@
 
 - No podemos dar una fecha estimada, dada la naturaleza 'sin ánimo de lucro, y de fans, en tiempo de ocio/hobby' pero avanzamos a buen ritmo, y somos varios traductores.
 
-## <a>id=objetivo>Introduccióno</a>
+## <a id=objetivo>Introduccióno</a>
 
 - Pathologic I (Classic HD), es el Remaster/relanzamiento (2015) del Juego Pathologic original, que Ice-Pick Lodge lanzó en 2005 en Rusia como Мор Утопия (Mor. Utopiya) 'Pestilencia. Utopía') y lanzado en un desafortunado Inglés (una traducción al Inglés de muy baja calidad) en 2006... hasta que en 2015 fue relanzado con una renovada Traducción al Inglés y Ruso.
 
