@@ -8,6 +8,7 @@
 - [Objetivo](#objetivo)
 - [Introducción](#introduccion)
 - [Equipo ¿Quienes somos?](#equipo)
+- [(BONUS) Traducción al Español del Juego de Mesa de Pathologic](#juego-de-mesa)
 - [Progreso (Actualizado a 2021-02)](#progreso)
 - [Glosarios](#glosarios)
 - [Agradecimientos](#gracias)
@@ -45,19 +46,26 @@
 
 ## <a id="equipo">Equipo (¿Quienes somos?)</a>
 
-- [@DUBlajes](https://twitter.com/DUBlajes) (Álvaro Guerrero)
-- [@krmlw](https://twitter.com/krmlw)  (Karen Marlow)
-- Ancalagon (Rafael)
-- [@RachelWheel93](https://twitter.com/RachelWheel93) (Raquel Rueda)
-- [@saphina_darkness](https://www.instagram.com/saphina_darkness/) (Saphina Graña)
-- [@TarekJor_GZ](https://twitter.com/TarekJor_GZ) (Jorge Alfonso Álvarez)
-- @Rathianrosa
+- [@DUBlajes](https://twitter.com/DUBlajes) (Álvaro Guerrero)- Traducción de Pathologic I y II, Traducción del Juego de Mesa de Pathologic, Coordinador de Pathologic II
+
+- [@krmlw](https://twitter.com/krmlw)  (Karen Marlow) - Traducción de Pathologic I y II, Glosario, nuestra Referencia en Ruso y Coordinadora de la Traducción de Pathologic I
+
+- Ancalagon (Rafael) - Traducción de Pathologic II
+- [@RachelWheel93](https://twitter.com/RachelWheel93) (Raquel Rueda) - Corrección y revisión
+- [@saphina_darkness](https://www.instagram.com/saphina_darkness/) (Saphina Graña) - Traducción de Pathologic I
+- [@TarekJor_GZ](https://twitter.com/TarekJor_GZ) (Jorge Alfonso Álvarez) - Traducción de Pathologic I y II y Edición en Github
+- @Rathianrosa - Traducción de Pathologic II
 
 Entre otros colaboradores, @omewwwwes, @Va
 
 Legado
 - [@Dogen](https://twitter.com/DogenTM) (colaboró en la traducción de Pathologic 2, traduciendo varias partes, y la coordinó, hasta Noviembre de 2020, Traductor de la versión en Español oficial de Disco Elysium, e impulsor de la traducción de Pathologic 2)
 - @alex_
+
+## <a id="juego-de-mesa">Juego de Mesa de Pathologic</a>
+  
+Autor: [@DUBlajes (Álvaro Guerrero)](https://twitter.com/DUBlajes)
+[Traducción al Español del Juego de Mesa de Pathologic (Imágenes adjuntas)](/Pathologic-Board-Game-Spanish/Traduccion-Juego-Mesa-Pathologic.md)
 
 ## <a id="progreso">Progreso (Actualizado a 2021-02)</a>
 
