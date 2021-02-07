@@ -15,7 +15,7 @@
 - [Mapa](#mapa)
 - [Comentarios extra sobre algunos términos](#comentarios-extra-terminos)
 
-## <a id="enlaces"></a> Enlaces
+## <a id="enlaces">Enlaces</a> 
 
 La traductora del Ruso al Inglés (Alexandra “Alphyna” Golubeva) escribió dos artículos (y algún comentario) detallando los aspectos, significados y dobles significados más significativos del texto y su proceso de traducción. Recomiendo su lectura, pues da un idea de la gran complejidad del texto.
 
@@ -25,7 +25,7 @@ La traductora del Ruso al Inglés (Alexandra “Alphyna” Golubeva) escribió d
 4.  [Kickstarter de Pathologic 2](https://www.kickstarter.com/projects/1535515364/pathologic)
 5.  [Pathologic 2 en Steam](https://store.steampowered.com/app/505230/Pathologic_2/), [Pathologic 2 en GOG](https://www.gog.com/game/pathologic_2)
 ---
-##  <a id="principales"></a> Personajes principales
+##  <a id="principales">Personajes principales</a> 
 
 Bachelor - Бакалавр - **Licenciado**
 
@@ -100,7 +100,7 @@ Vlad the Younger - Младший Влад Ольгимский - **Vlad el Jove
 
 Charon - Харон - **Caronte**
 
-### <a id="comentarios-usuario-ruso"></a> Comentarios de un usuario Ruso
+### <a id="comentarios-usuario-ruso">Comentarios de un usuario Ruso</a>
 
 - Context to some of the names. I am assuming everyone has completed the game, so no spoiler warnings.
 
@@ -269,7 +269,7 @@ What I’m saying is, I think the medical angle is not vital for his title.
 
 - En definitiva, el juego es deliberadamente anacrónico, y sería un error llamarle Doctor Dankovsky, pero no lo es asumir que no tiene estudios de Medicina o de ciencias médicas. - Karen “ @knell ”
 
-## <a id="secundarios"></a> Personajes secundarios
+## <a id="secundarios">Personajes secundarios</a> 
 
 Ayan - Айян - **Ayan**
 
@@ -378,7 +378,7 @@ Young Lady - Девушка - **Muchacha**
 Young Man - Юноша - **Muchacho**
 
 ---
-## <a id="misc"></a> Conceptos abstractos y miscelánea
+## <a id="misc">Conceptos abstractos y miscelánea</a> 
 
 Utopians - Утописты - **Utópicos**
 
