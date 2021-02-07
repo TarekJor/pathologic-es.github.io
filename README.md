@@ -6,6 +6,14 @@
 
 - Traducir Pathologic I (Classic HD) y Pathologic II al Español-España (Castellano), texto, y 'assets', también hay ideas sobre el doblaje de ciertas partes (@DUBlajes, Álvaro Guerrero), el juego tiene Voces en Ruso o Inglés (aunque muchos de los diálogos son mudos, por su naturaleza, RPG, Indie, y la cantidad de diálogos)
 
+- Primero se traducirán los textos, cuando haya una BETA ABIERTA, para una fase de testeo colectiva, para pulir la traducción (porque los jugadores podéis ayudar y mucho, aunque nosotros ya la estemos revisando y la revisaremos antes varias veces), os avisaremos.
+
+- De la misma forma cuando las dos traducciones se entreguen, sentíos libres y animados de compartir y enlazar la web de la traducción, y de apoyar a los desarrolladores en GOG o Steam en PC, y si llega a convertirse en oficial en Playstation Store, y Microsoft Store (Xbox, PC)
+
+- Actualmente la Traducción sólo estará en PC, porque es vía 'Mod', no-oficial, pero estaría bien que se convirtiera en oficial, ese también es un objetivo.
+
+- No podemos dar una fecha estimada, dada la naturaleza 'sin ánimo de lucro, y de fans, en tiempo de ocio/hobby' pero avanzamos a buen ritmo, y somos varios traductores.
+
 ## Introducción
 
 - Pathologic I (Classic HD), es el Remaster/relanzamiento (2015) del Juego Pathologic original, que Ice-Pick Lodge lanzó en 2005 en Rusia como Мор Утопия (Mor. Utopiya) 'Pestilencia. Utopía') y lanzado en un desafortunado Inglés (una traducción al Inglés de muy baja calidad) en 2006... hasta que en 2015 fue relanzado con una renovada Traducción al Inglés y Ruso.
