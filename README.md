@@ -70,7 +70,18 @@ Autor: [@DUBlajes (Álvaro Guerrero)](https://twitter.com/DUBlajes)
 
 ## <a id="progreso">Progreso (Actualizado a 2021-02)</a>
 
-PROGRESO DE LA TRADUCCIÓN - JUEGO BASE 6/21
+
+**PATHOLOGIC I (Classic HD)** PROGRESO DE LA TRADUCCIÓN
+
+- Diario de Clara la Impostora (The Changeling Route) Días del 1 al 12, Final - (@TarekJor) Traducido. Esperando corrección/revisión.
+- Diario del Arúspice (The Haruspex Route) Días del 1 al 12, Final - (@Vespidcrown) Traducido. Esperando corrección/revisión.
+- Diario del Licenciado (The Bachelor Router) Dïas del 1 al 12 - Traducido
+- Objetos de Misión (@Dublajes) Completado.
+- Objetos (@Dublajes) Completado.
+- Cartas Días 1 al 12 (@Dublajes) Completado
+- Diálogos (% desconocido, en proceso)
+
+**PATHOLOGIC 2** PROGRESO DE LA TRADUCCIÓN - JUEGO BASE + DLC 6/21
 
 - Archivo 1: Completado.
 - Archivo 2: Completado.
@@ -93,6 +104,7 @@ PROGRESO DE LA TRADUCCIÓN - JUEGO BASE 6/21
 - Archivo 19: Sin asignar.
 - Archivo 20: Sin asignar.
 - Archivo 21 (DLC Marble Nest) : En fase de traducción  (@TarekJor)
+
 
 ## <a id="glosarios">Glosarios</a>
 
