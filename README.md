@@ -107,7 +107,7 @@ A Ancalagon, por sus matices, sus recomendaciones, consejos, experiencia y buen 
 
 - [Pathologic 2 en GOG](https://www.gog.com/game/pathologic_2)
 - [Pathologic 2 en Steam](https://store.steampowered.com/app/505230/Pathologic_2/)
-- [Pathologic I (Classic HD) en GOG](https://www.gog.com/game/pathologic_classic_hd)-
+- [Pathologic I (Classic HD) en GOG](https://www.gog.com/game/pathologic_classic_hd)
 - [Pathologic I (Classic HD) en Steam](https://store.steampowered.com/app/384110/Pathologic_Classic_HD/)
 - [Wiki oficial de Pathologic I y II en Inglés](https://pathologic.gamepedia.com/Pathologic_Wiki)
 - [Kickstarter de Pathologic II](https://www.kickstarter.com/projects/1535515364/pathologic)
