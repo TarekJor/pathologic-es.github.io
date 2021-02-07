@@ -1,0 +1,19 @@
+<div class="ui list">
+{% for member in site.data.members %}
+	<div class="item">
+		<i class="user icon"></i>
+		<div class="content">
+			{% if member.twitter  %}
+				<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a>
+			{% elsif member.instagram %}
+				<a href="https://www.instagram.com/{{ member.instagram }}">@{{ member.instagram }}</a>
+			{% elsif member.username %}
+				{{ member.username }}
+			{% endif %}
+			{% if member.name %}
+				&nbsp;({{ member.name }})
+			{% endif %}
+		</div>
+	</div>
+{% endfor %}
+</div>

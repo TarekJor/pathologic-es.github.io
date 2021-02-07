@@ -1,1 +1,2 @@
-body.default { margin: calc(5% + 0.5vh) auto; }
+body { background: #000 url("https://pathologic-es.github.io/assets/bg.png") center / cover; }
+.ui.grid.container { padding: 3rem 0; }
