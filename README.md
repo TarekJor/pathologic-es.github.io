@@ -10,6 +10,8 @@
 - [Equipo ¿Quienes somos?](#equipo)
 - [Progreso (Actualizado a 2021-02)](#progreso)
 - [Glosarios](#glosarios)
+- [Agradecimientos](#gracias)
+- [Enlaces y Referencias](#enlaces)
 
 ## <a id=objetivo>Objetivo</a>
 
