@@ -49,10 +49,13 @@
 - [@RachelWheel93](https://twitter.com/RachelWheel93) (Raquel Rueda)
 - [@saphina_darkness](https://www.instagram.com/saphina_darkness/) (Saphina Graña)
 - [@TarekJor_GZ](https://twitter.com/TarekJor_GZ) (Jorge Alfonso Álvarez)
-- Rathian
+- @Rathianrosa
+
+Entre otros colaboradores, @omewwwwes, @Va
 
 Legado
 - [@Dogen](https://twitter.com/DogenTM) (colaboró en la traducción de Pathologic 2, traduciendo varias partes, y la coordinó, hasta Noviembre de 2020, Traductor de la versión en Español oficial de Disco Elysium, e impulsor de la traducción de Pathologic 2)
+- @alex_
 
 ## <a id="progreso">Progreso (Actualizado a 2021-02)</a>
 
