@@ -689,8 +689,9 @@ Works - Заводы - **Factoría**
 The windows of this house are bricked in - Окна в этом доме заложены кирпичом - **Las ventanas de esta casa están tapiadas.**
 
 The butcher is here. - Мясник находится на этом месте. - **El carnicero está aquí.**
+
 ---
-## <a id="comentarios-extra-termino"></a> Comentarios sobre algunos términos 
+## <a id="comentarios-extra-terminos"></a> Comentarios sobre algunos términos 
 
 Herb Bride 
 
