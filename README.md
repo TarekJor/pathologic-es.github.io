@@ -2,7 +2,15 @@
 
 ### Web oficial de los proyectos de traducción al Español de los videojuegos **Pathologic Classic HD y Pathologic 2**
 
-## Objetivo
+## Índice
+
+## <a>id=objetivo>Objetivo</a>
+
+- [Objetivo](#objetivo)
+- [Introducción](#introducion)
+- [Equipo ¿Quienes somos](#equipo)
+- [Progreso (Actualizado a 2021-02)](#progreso)
+- [Glosarios](#glosarios)
 
 - Traducir Pathologic I (Classic HD) y Pathologic II al Español-España (Castellano), texto, y 'assets', también hay ideas sobre el doblaje de ciertas partes (@DUBlajes, Álvaro Guerrero), el juego tiene Voces en Ruso o Inglés (aunque muchos de los diálogos son mudos, por su naturaleza, RPG, Indie, y la cantidad de diálogos)
 
@@ -14,7 +22,7 @@
 
 - No podemos dar una fecha estimada, dada la naturaleza 'sin ánimo de lucro, y de fans, en tiempo de ocio/hobby' pero avanzamos a buen ritmo, y somos varios traductores.
 
-## Introducción
+## <a>id=objetivo>Introduccióno</a>
 
 - Pathologic I (Classic HD), es el Remaster/relanzamiento (2015) del Juego Pathologic original, que Ice-Pick Lodge lanzó en 2005 en Rusia como Мор Утопия (Mor. Utopiya) 'Pestilencia. Utopía') y lanzado en un desafortunado Inglés (una traducción al Inglés de muy baja calidad) en 2006... hasta que en 2015 fue relanzado con una renovada Traducción al Inglés y Ruso.
 
@@ -32,7 +40,7 @@
 
 - Es una traducción 'de Fans', no oficial por el momento, pero con la máxima calidad, como si de profesional se tratase, y está en contínua revisión y mejora, corrección, etc
 
-## Equipo (¿Quienes somos)
+## <a id="equipo">Equipo (¿Quienes somos)</a>
 
 - [@DUBlajes](https://twitter.com/DUBlajes) (Álvaro Guerrero)
 - [@krmlw](https://twitter.com/krmlw)  (Karen Marlow)
@@ -45,7 +53,7 @@
 Legado
 - [@Dogen](https://twitter.com/DogenTM) (colaboró en la traducción de Pathologic 2, traduciendo varias partes, y la coordinó, hasta Noviembre de 2020, Traductor de la versión en Español oficial de Disco Elysium, e impulsor de la traducción de Pathologic 2)
 
-## Progreso (Actualizado a 2021-02)
+## <a id="progreso">Progreso (Actualizado a 2021-02)</a>
 
 PROGRESO DE LA TRADUCCIÓN - JUEGO BASE 6/21
 
@@ -71,12 +79,12 @@ PROGRESO DE LA TRADUCCIÓN - JUEGO BASE 6/21
 - Archivo 20: Sin asignar.
 - Archivo 21 (DLC Marble Nest) : En fase de traducción  (@TarekJor)
 
-## Glosarios
+## <a id="glosarios">Glosarios</a>
 
 - [Glosario de Pathologic I (Classic HD)](/md/Glosario-Pathologic1.md)
 - [Glosario de Pathologic II](/md/Glosario-Pathologic2.md)
 
-## Agradecimientos
+## <a id="gracias">Agradecimientos</a>
 
 A Ice-Pick Lodge, los desarrolladores de Pathologic I (Classic HD) y Pathologic II
 
@@ -92,7 +100,7 @@ A Raquel Rueda, por ser nuestra correctora ;D
 
 A Ancalagon, por sus matices, sus recomendaciones, consejos, experiencia y buen hacer ;D
 
-## Enlaces y Referencias
+## <a id="enlaces">Enlaces y Referencias</a>
 
 - [Web del proyecto Pathologic-Es en GitHub (en contrucción)](https://pathologic-es.github.io/)
 
@@ -107,6 +115,7 @@ A Ancalagon, por sus matices, sus recomendaciones, consejos, experiencia y buen 
 - [Pathologic en Wikipedia en Español](https://es.wikipedia.org/wiki/Pathologic)
 
 Legado
+
 - [[Traducción] Pathologic 2 + DLC en ClanDlan (legado)](http://www.clandlan.net/foros/topic/81063-traduccion-pathologic-2-dlc/)
 - [[Petición] Traducción Pathologic 2](http://www.clandlan.net/foros/topic/80530-peticion-traduccion-pathologic-2/)
 
