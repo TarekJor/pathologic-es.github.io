@@ -1,6 +1,6 @@
 # [Web de Pathologic-Es en GitHub](https://pathologic-es.github.io/)
 
-#### (ES) Web oficial de los proyectos de traducción al Español de los videojuegos **Pathologic Classic HD y Pathologic 2**
+#### (ES) Web oficial de la traducción al Español de los videojuegos **Pathologic Classic HD y Pathologic 2**
 #### (EN) Official website of Pathologic I (Classic HD) and Pathologic II Spanish Translation projects.
 
 ## Índice
