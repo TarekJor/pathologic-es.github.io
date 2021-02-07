@@ -1,6 +1,6 @@
 # Traducción a Español de Pathologic I (Classic HD) - Glosario
 
-- Fecha: Actualizado a 2020-12-25 (en proceso de unificado y en continua revisión)
+- Fecha: Actualizado a 2021-02-07 (en proceso de unificado y en continua revisión)
 - Formato: Markdown
 - En proceso: unificar Glosario dePathologic I y II cuando proceda, y mantener una distinción cuando haya diferencias (no son exactamente iguales), mejorar formato, orden alfabético para mejor navegación
 - Navegación: ctrl+f para buscar.
