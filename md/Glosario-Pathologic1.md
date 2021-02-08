@@ -698,3 +698,7 @@ Herb Bride
 - es más una Novia que una 'Doncella' (que no pega en algo rural), y es más 'de las Estepas' que 'de las Hierbas' (que sería demasiado literal)
 - 'Novia de las Estepas' es lo más apropiado con la traducción del Ruso y la referencia en Inglés @knell
 
+---
+**Autores del Glosario: @knell fundamentalmente, y aportaciones de @DUBlajes, @TarekJor (Edición en GitHub) y @Ancalogon entre otros  @ 2021
+Estadísticas: 5887 Palabras, 700 Líneas aprox.**
+
