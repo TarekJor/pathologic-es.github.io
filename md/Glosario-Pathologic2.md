@@ -62,12 +62,12 @@ Grace - Ласка - **Alma**
 
 - Laska es un apodo común y significa "ternura", "dulzura".
 - Difícil de traducir al inglés, así que optaron por "gracil". Yo (knell), en cambio, opté por Alma, del latin almus, que significa "amable" o "alguien que nutre". También porque este personaje habla con los muertos y de ahí la palabra contemporánea "alma".
+
 Gravel - Форель - **Novel**
-Gravel:  Gravel (sin traducción). Es el mote de Lara Ravel, si lo traducimos, pierde el sentido porque no se parece en nada a su nombre.
 
+- Gravel:  Gravel (sin traducción). Es el mote de Lara Ravel, si lo traducimos, pierde el sentido porque no se parece en nada a su nombre.
 
-Mote de Lara Ravel cuando era niña. A ser posible, tendría que tener un sonido parecido a su apellido; y si no, a su nombre. Novel tiene un sonido agradable.
-
+- Mote de Lara Ravel cuando era niña. A ser posible, tendría que tener un sonido parecido a su apellido; y si no, a su nombre. Novel tiene un sonido agradable.
 
 Haruspex - Гаруспик - **Arúspice**
 
@@ -159,7 +159,7 @@ En Pathologic 2, estos personajes hablan en verso y rima. En la traducción al i
 
 - Abattoir - Бойни - **Matadero**
 - Bad Grief’s Nest - Логово Грифа - **El Nido de Grifo**
-- Bone Stake Lot - Пустырь Костного Столба - Solar de la Estaca de Huesos o Estacario de hueso
+- Bone Stake Lot - Пустырь Костного Столба - Solar de la Estaca de Huesos o **Estacario de Hueso**
 - Gates of Labour - Врата Труда - **Pórtico de la Labor**
 - Gates of Sorrow - Врата Скорби - **Pórtico de la Tristeza** o Pórtico de la Pena
 - Gullet - Жилка - **Arteria** (río)
@@ -182,7 +182,6 @@ En Pathologic 2, estos personajes hablan en verso y rima. En la traducción al i
 - The Flank - Седло - **El Flanco** o el Costado
 - The Ford - **El Vado** (otra forma de referirse al Abbatoir)
 - The Gut - Утроба - **El Vientre** o las Tripas, Entrañas
-- The Gut: **Las Entrañas**.
 - The Hindquarters - Жильники - **Los Cuartos Traseros**
 - The Knots - Узлы - **Los Nódulos**
 - The Lump - Сгусток - **El Coágulo**
@@ -225,24 +224,24 @@ Por eso pensé en La Vorágine o El Torbellino, palabras asociadas frecuentement
 *(No le pongáis los puntos al final si la original no lo lleva)
  
 - Antibiotic:  **Antibiótico**: "Nombre". => Ejemplo: Antibiótico: "Medrel"
-- Ashen Swish - Сечь - **Sibilante cenizosa**
+- Ashen Swish - Сечь - **Sibilante Cenizosa**
 - Beetle:  **Escarabajo**
-- Black Twyre - Черная твирь - **Twyr negra**
-- Blood Twyre - Кровавая твирь - **Twyr rojo sangre** o Twyr sangrienta/escarlata
+- Black Twyre - Черная твирь - **Twyr Negra** o Twyr Negruzca
+- Blood Twyre - Кровавая твирь - **Twyr rojo sangre** o Twyr sangrienta/escarlata o Twyr Rojiza
 - Bloody Bandage:  **Venda ensangrentada**
-- Broken Ampoule:  **Ampolla hecha añicos** o Ampolla rota
-- Broken Scissors:  **Tijeras rotas**
-- Brown Twyre - Бурая твирь - **Twyr marrón**
+- Broken Ampoule:  **Ampolla hecha añicos** o Ampolla Rota
+- Broken Scissors:  **Tijeras Rotas**
+- Brown Twyre - Бурая твирь - **Twyr Marrón**
 - Button:  **Botón**
-- Candle Stub:  **Trozo de vela**
+- Candle Stub:  **Trozo de Vela**
 - Chalk:  **Tiza**
 - Charm:  **Amuleto**
 - Cloth Mask:  **Mascarilla** (En la descripción ya se indica que es de tela)
-- Empty Bottle:  **Botella vacía**
+- Empty Bottle:  **Botella Vacía**
 - Ferromycinum - **Ferromicina**
 - Fingernail: **Uña**. Es una moneda que los niños usan para jugar a cierto juego.
-- Good Heart: **Corazón benigno**
-- Immunity Boosters:  **Potenciadores de inmunidad** o Precursores Inmunitarios
+- Good Heart: **Corazón Benigno**
+- Immunity Boosters:  **Potenciadores de Inmunidad** o Precursores Inmunitarios, Potenciadores Inmunitarios
 - Lamp:  **Lámpara**
 - Lancet:  **Lanceta**
 - Match:  **Cerilla**
@@ -267,12 +266,12 @@ En ocasiones e habla de 'powders', polvillos, cuando se habla de Shmowders (sh, 
 - Straight Razor:  **Navaja de afeitar**.
 - Swevery - Савьюр - **Saviera**
 - Tan - Тан - **Tan**, tal cual. Es una bebida hecha a base de leche y pepino.
-- Tincture:  Tintura: "Nombre" => Ejemplo: Tintura: "Yas"
+- Tincture:  **Tintura**: "Nombre" => Ejemplo: Tintura: "Yas"
 - Torch:  **Antorcha**
-- Twyrine - Твирин - **Twyrina** (líquido/brejabe, extracto de las Twyir)
+- Twyrine - Твирин - **Twyrina** (líquido/brejabe, extracto de las (hierbas/plantas) Twyr)
 - Walnuts:  **Nueces**
-- Water Bottle:  **Botella de agua**
-- White Whip - Белая плеть - **Látigo blanco**
+- Water Bottle:  **Botella de Agua**
+- White Whip - Белая плеть - **Látigo Blanco**
 
 ---
 ## <a id="general">General</a>
@@ -282,8 +281,8 @@ En ocasiones e habla de 'powders', polvillos, cuando se habla de Shmowders (sh, 
 - Auroch - Авроксов - **Uro**
 - Barter (como sustantivo en una oración): Se puede usar "**trueque**".
 - Barter (verbo): **Comerciar**.
-- Big Sister - Старшая сестра - **Hermana mayor**
-- Bull Project - Проект быков - **Proyecto Toro**
+- Big Sister - Старшая сестра - **Hermana Mayor**
+- Bull Project - Проект быков - **Proyecto Toro** o Proyecto/Compañía Bovino/Toro
 - Concoction: **Brebaje**
 - Corpsman - Санитар - **Sanitario**
 - Cothurni: **Coturno o Cortunos** (calzado romano)
@@ -295,9 +294,12 @@ En ocasiones e habla de 'powders', polvillos, cuando se habla de Shmowders (sh, 
 - Kinsman: **Pariente**
 - Layer - Слоя - **Capa**
 - Militia - Дружинник - **Miliciano**
+
 - Mistress - Хозяйка - **Patrona**
+
 	Tiene que expresar tanto autoridad como el concepto de “benefactora”.
-- Nightjar - Козодой - **Caprimúlgido** o **Chotacabras** (pájaro, no confundir con Chupacabras), Chotacaras es más conocido, quizá
+	
+- Nightjar - Козодой - **Caprimúlgido** o **Chotacabras** (pájaro, no confundir con Chupacabras), Chotacabras es más conocido, quizá.
 - Odongh - Одонг - (No se traduce)
 - Old Burakh: **el Viejo Burakh** o el Anciano Burakh o Burakh el Viejo (se refiere al padre de Artemy, el Arúspice).
 - Onlooker - Зевака - **Curioso**
@@ -314,7 +316,9 @@ Alternativas: Ordenanza, Celador, Ayudante, Asistente (contexto)
 - the blues: **Depresión** Se nota cuando es depresión porque sale siempre en conversaciones que tienen que ver con sanar.
 - The Bound - Приближенные - **Allegados** o 'Vinculados'
 - The Game/Great Game: **El Juego/Gran Juego**
-- The Gumstone - Клей-камня - **Los megalitos de la estepa** o los 'Monolitos' de la Estepa. Esa palabra no tiene traducción como tal, y como en realidad son una serie de piedras colocadas en forma de espiral en la estepa, podemos llamarlo así sin perder sentido ni darle otro adicional.
+- The Gumstone - Клей-камня - **Los Megalitos de la Estepa** o los 'Monolitos' de la Estepa.
+
+Esa palabra no tiene traducción como tal, y como en realidad son una serie de piedras colocadas en forma de espiral en la estepa, podemos llamarlo así sin perder sentido ni darle otro adicional.
 
 - The Kin - Уклад - **El Régimen** o El Linaje o Dogma (término al que habrá que dar vueltas al final, con todo el contexto de cuando se utiliza, Clan, Klan, etc)
 
@@ -328,7 +332,10 @@ Insisto, desde mi punto de vista, es muy difícil de traducir; y, por otra parte
 - The Town - Город - **el Pueblo** o 'Villa'
 - Tinctures - Сильные - **Tinturas**
 - Turner - Крутилку - **Girador** (cosa, juguete)
-- Usher - Капельдинер - **Kapeldiner** o Acomodador ( depende del contexto. Acomodador o Ujier.)
+- Usher - Капельдинер - **Kapeldiner** o Acomodador
+
+( depende del contexto. Acomodador o Ujier.)
+
 - Water bearers - Водонос/Водоносы - **Portadores/Porteadores de Agua** o Aguadores
 - Worm - Червь - **Gusano**
 
