@@ -531,3 +531,7 @@ Espacio para dejar comentarios y preguntas que no están relacionados con ningú
 
 - Algunos términos habrá que revisarlos con contexto y al final al unificar las traducciones (ejemplo The Kin) - @TarekJor
 - Algunos términos están claros y son definitivos, otros pueden/deben ser revisados al final (orderlies, motes, nombres de personajes, el contexto podría decantar una alternativa que quedara mejor o unificar con Pathologic I - @TarekJor
+
+---
+**Autores: @knell fundamentalmente, @DUBlajes, @TarekJor (Edición en GitHub)  @ 2021
+Estadísticas: 4432 Palabras, 533 Líneas aprox.**
